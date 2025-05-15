@@ -1,5 +1,3 @@
--- Sets server list convar
-SetConvarServerInfo('tags', 'Lore_Friendly_Car_Pack')
 -- Setup for the version check
 updatePath = "/SpiritsCreations/FiveM-Lore-Friendly-Pack" -- your git user/repo path
 -- Console stuff
